@@ -1,0 +1,13 @@
+,value
+max_depth,4.0
+reg_alpha,0.4055181959984358
+n_estimators,407.0
+num_leaves,25.0
+learning_rate,0.12572264246310147
+min_child_samples,21.0
+colsample_bytree,0.6460218265559116
+reg_lambda,0.07474135358698819
+subsample,0.6180211440955466
+random_state,42.0
+verbose,-1.0
+n_jobs,-1.0
