@@ -1,14 +1,12 @@
 # 🪙 Bitcoin Direction Prediction with Gradient Boosting
 
-A end-to-end machine learning pipeline for predicting the monthly direction of **Bitcoin (BTC-USD)** using Gradient Boosting and rigorous financial backtesting methodology.
+A end-to-end machine learning pipeline for predicting the monthly direction of **Bitcoin (BTC-USD)** using Gradient Boosting and  financial backtesting methodology.
 
 ---
 
 ## 📋 Overview
 
-This project builds a binary classifier that predicts whether Bitcoin will close higher or lower the following month, then translates those predictions into a long/flat trading strategy and evaluates it against a buy-and-hold benchmark. The focus is equally on **predictive modelling** and **methodological correctness** — avoiding the data leakage pitfalls that are common in financial ML projects.
-
-Bitcoin was chosen over traditional equity indices (e.g. S&P 500) because crypto markets are less informationally efficient, momentum and volatility features carry stronger predictive signal, and the higher volatility creates more differentiated market regimes for the model to learn from.
+This project builds a binary classifier that predicts whether Bitcoin will close higher or lower the following month, then translates those predictions into a long/flat trading strategy and evaluates it against a buy-and-hold benchmark. The focus is equally on **predictive modelling** and **methodological correctness**
 
 ---
 
